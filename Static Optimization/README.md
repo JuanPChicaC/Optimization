@@ -4,7 +4,7 @@ This repository contains proposal and solution for several optimization problems
 
 ## [Portfolio optimization Model](https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model)
 
-This model was created by **Harry Markowitz** in 1952 *(Portfolio Selection, The Journal of Finance)*. It contains the solution for the optimal percentage of investment each financial asset has in the way to maximize the investment or minimize the risk of the entire portfolio.
+This model was created by **Harry Markowitz** in 1952 *(Portfolio Selection, The Journal of Finance)*. It contains the solution for the optimal percentage of investment that each financial asset has in the way to maximize the investment or minimize the risk of the entire portfolio.
 
 *Reference: https://www.math.ust.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf*
 
