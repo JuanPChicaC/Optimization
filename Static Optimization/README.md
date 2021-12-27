@@ -2,7 +2,7 @@
 
 This repository contains proposal and solution for several optimization problems, with non time variant condition.
 
-### 1) Portfolio optimization Model
+### 1) [Portfolio optimization Model](https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization/Portfolio%20Optimization%20Model)
 
 This model was created by **Harry Markowitz** in 1952 *(Portfolio Selection, The Journal of Finance)*. It contains the solution for the optimal percentage of investment each financial asset has in the way to maximize the investment or minimize the risk of the entire portfolio.
 
