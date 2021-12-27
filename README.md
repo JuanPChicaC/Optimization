@@ -1,6 +1,6 @@
 # Optimization
 
-This Repository contain solutions for optimization problems. The main idea is to show an standarized and replicable way of solution for static and dynamic optimization problems. The expecterd result is that all the solution presented here could be replicable by anyone and could be used as a base for develop more complex solutions like applications and APIs to deliver fastly optimal solutions for different kind of clients.
+This Repository contains solution for optimization problems. The main idea is to show an standarized and replicable way of solution for static and dynamic optimization problems. The expecterd result is that all the content presented here could be replicable by anyone and may be used as a base for develop more complex solutions like applications and APIs to deliver fastly optimal solutions for different kind of clients.
 
 ## Dynamic Optimization
 The **Dynamic Optimization** directory contain classic solutions for different dynamic (time variant) problems that are commonly present in different knowledge areas. 
