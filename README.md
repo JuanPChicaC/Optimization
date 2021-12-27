@@ -2,10 +2,10 @@
 
 This Repository contains solution for optimization problems. The main idea is to show an standarized and replicable way of solution for static and dynamic optimization problems. The expecterd result is that all the content presented here could be replicable by anyone and may be used as a base for develop more complex solutions like applications and APIs to deliver fastly optimal solutions for different kind of clients.
 
-## Dynamic Optimization
+## [Dynamic Optimization](https://github.com/JuanPChicaC/Optimization/tree/main/Dynamic%20Optimization)
 The **Dynamic Optimization** directory contain classic solutions for different dynamic (time variant) problems that are commonly present in different knowledge areas. 
 
-## Static Optimization
+## [Static Optimization](https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization)
 The **Static Optimization** directory contain classic solutions for different static (no time depended) problems that are commonly present in different knowledge areas. 
 
 ### Pdta:
