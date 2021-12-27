@@ -1,6 +1,6 @@
 # Portfolio Optimization Folder
 
-This folder contains the complete explanation and the code to replicate a portfolio optimization model with the characteristicis that was explained in https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization
+This folder contains the complete explanation and the code to replicate a portfolio optimization model with the characteristics that was explained in [*Static Optimization*](https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization) directory
 
 ### [Portfolio Optimization.ipynb](https://github.com/JuanPChicaC/Optimization/blob/main/Static%20Optimization/Portfolio%20Optimization%20Model/Portfolio%20Optimization%20Model.ipynb)
 This file contains all the theoric and functionality explanation to implement a portfolio optimization Model. There can be finded graphs, equation and methods used to generate a solution about the problem of investment selection
