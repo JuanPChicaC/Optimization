@@ -1,6 +1,6 @@
 # Static Optimization Folder
 
-This repository contains proposals and solutions for several optimization problems, introduced by myself. 
+This repository contains proposal and solution for several optimization problems, with non time variant condition.
 
 ### 1) Portfolio optimization Model
 
