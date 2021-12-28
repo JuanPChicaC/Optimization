@@ -12,5 +12,5 @@ In this file, an alternative for the original optimization problem is presented.
 
 Also, please note that the studied assets should be considered as an investment project. Based on the principle of value in time, the expected return will be calculated as a geometric mean of the increments in the value. Risk will be computed as a geometric standard deviation for the same variable.
 
-A proposed solution for a portfolio compossed by two assets is presented in order to better explain the problem. Lately, a general solution is developed for the n assets portfolio case.
+A proposed solution for a portfolio compossed by two assets is presented in order to better explain the problem. Lately, a general solution is developed for the n assets portfolio case. The model is the income for [Portfolio Optimization Service](https://github.com/JuanPChicaC/WebDevelopment/tree/main/API/Portfolio%20Optimization%20Service), that pretend to be a way to deliver optimal portfolios to any client that require it.
 
