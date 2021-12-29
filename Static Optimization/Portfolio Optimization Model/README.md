@@ -1,4 +1,4 @@
-# Portfolio Optimization Folder
+# Portfolio Optimization Model Folder
 
 This folder contains the complete explanation and the code to replicate a portfolio optimization model with the characteristics that was explained in [*Static Optimization*](https://github.com/JuanPChicaC/Optimization/tree/main/Static%20Optimization) directory in section ***Portfolio Optiomization Model***
 
