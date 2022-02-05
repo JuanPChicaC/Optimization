@@ -81,6 +81,7 @@ class Portfolio():
             self.DLP_information[asset] = self.DLP_information[asset].diff()
         
         self.mean_vector = self.DLP_information.mean().values
+        self.std_vector = self.DLP_information.std().values
         
         self.covariance_matrix = self.DLP_information.cov().values
         
